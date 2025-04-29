@@ -3,10 +3,10 @@ import React from 'react'
 function Navigation() {
   return (
     <nav>
-    <div className='w-full px-20 font-medium justify-between items-center h-18 flex'>
+    <div className='w-full px-60 font-medium justify-between items-center h-18 flex'>
       <img className='w-18 h-10' src="/images/brand_logo.png" alt="logo" />
 
-      <div className=' w-3/8'>
+      <div className=' w-2/6'>
         <ul className='flex justify-between'>
           <li className='hover:text-red-700'><a href="#">Menu</a></li>
           <li className='hover:text-red-700'><a href="#">Location</a></li>
